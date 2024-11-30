@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    text-decoration: none;
+    list-style: none;
+}
+
+.secondary-font-color {
+    color:grey
+}
+
+.header-logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap:30px;
+    font-size: 20px;
+}
+
+
+.welcome-message .welcome-description h1 {
+    font-size: 50px;
+}
