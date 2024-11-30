@@ -27,3 +27,27 @@ ul {
 .welcome-message .welcome-description h1 {
     font-size: 50px;
 }
+
+.welcome-message {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.welcome-description {
+    max-width: 654px;
+    padding-top: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#emoji-dando-joia {
+    width: 24%;
+    height: auto;
+}
+
+.header {
+    padding: 16px 130px;
+}
