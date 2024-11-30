@@ -51,3 +51,14 @@ p {
 .header {
     padding: 16px 130px;
 }
+
+.button-header {
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: #3882F6;
+    font-weight: 600;
+    color: white;
+    border-color: #3882F6;
+    margin-top: 15px;
+}
