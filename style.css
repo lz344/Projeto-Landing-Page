@@ -8,6 +8,10 @@
     list-style: none;
 }
 
+.primary-font-color {
+    color: white;
+}
+
 .secondary-font-color {
     color:grey
 }
@@ -65,7 +69,6 @@ p {
     font-size: 18px;
     background-color: #3882F6;
     font-weight: 600;
-    color: white;
     border-color: #3882F6;
     margin-top: 15px;
 }
