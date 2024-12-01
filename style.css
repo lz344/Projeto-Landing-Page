@@ -72,3 +72,30 @@ p {
     border-color: #3882F6;
     margin-top: 15px;
 }
+
+.illustration {
+    height: 200px;
+    width: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 11px;
+    margin-bottom: 10px;
+}
+
+.content-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 560px;
+    justify-content: center;
+}
+
+.info-content-area {
+    display: flex;
+    gap: 70px;
+    margin-top: 60px;
+}
+
+.info {
+    max-width: 200px;
+    text-align: center;
+}
