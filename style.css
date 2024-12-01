@@ -99,3 +99,9 @@ p {
     max-width: 200px;
     text-align: center;
 }
+
+.content-area h1 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
