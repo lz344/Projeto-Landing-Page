@@ -105,3 +105,30 @@ p {
     color: #1F2937;
     font-weight: 900;
 }
+
+.quote-area {
+    background-color: #E5E7EB;
+    min-height: 504px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-area blockquote p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;  
+    color: #1F2937;
+    max-width: 1000px;
+}
+
+.quote-area blockquote cite {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 36px; 
+    text-align: end;
+    display: block;
+    text-align: end;
+}
