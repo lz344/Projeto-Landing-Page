@@ -60,7 +60,7 @@ p {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    min-height: 650px;
+    min-height: 570px;
 }
 
 .button-header {
@@ -138,7 +138,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 336px;
+    min-height: 400px;
 }
 
 
